@@ -1,0 +1,37 @@
+body
+{
+    background-color: pink;
+}
+
+.heading 
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.note
+{
+    font-size: 20px;
+    color: black;
+}
+
+.footer
+{
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(255, 121, 72);
+    color: black;
+    width: 100%;
+    font-size: 15px;
+    line-height: 3;
+}
+
+canvas
+{
+    border:5px solid black;
+    border-radius:20px;
+    border-radius:5px 5px 5px gray;
+
+}
